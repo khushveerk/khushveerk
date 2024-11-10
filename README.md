@@ -214,6 +214,26 @@ Finally, we have our **Analytics and Monitoring team** , which continuously trac
 ***Docker:*** Ensures consistent deployment of the order service.
 
 
+#### Search Engine
+
+***Elasticsearch:*** A powerful search engine that provides fast and efficient product search capabilities.
+
+***Apache Solr:**** An alternative search platform for indexing and searching product data.
+
+
+#### Recommendation Engine
+
+***Apache Spark:*** A big data processing framework used for analyzing user behavior and generating personalized recommendations.
+
+***TensorFlow:*** A machine learning framework that helps build recommendation algorithms.
+
+
+#### Analytics & Monitoring
+
+***Prometheus:*** A monitoring system that collects metrics from all services, providing insights into system performance.
+
+***Grafana:*** A dashboard tool that visualizes metrics and analytics, helping teams track and analyze data effectively.
+
 
 
 ## Conclusion: The Future of Myntra
