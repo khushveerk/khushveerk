@@ -35,6 +35,62 @@ If Myntra suddenly gets a surge of new customers during a sale, the architecture
 As the business grows, new features can be added without disrupting existing services. For example, if Myntra wants to introduce a new feature like virtual try-ons, the architecture can support this addition smoothly. ]
 
 
++-------------------+
+|                   |
+|   User Device     |
+| (Mobile/Web App)  |
++-------------------+
+          |
+          v
++-------------------+
+|                   |
+|   API Gateway     |
+|                   |
++-------------------+
+          |
+          |-------------------+
+          |                   |
+          v                   v
++-------------------+   +-------------------+
+|                   |   |                   |
+|   User Service    |   |   Product Service  |
+|                   |   |                   |
++-------------------+   +-------------------+
+          |                   |
+          |                   |
+          v                   v
++-------------------+   +-------------------+
+|                   |   |                   |
+|   Order Service    |   |   Inventory       |
+|                   |   |   Service         |
++-------------------+   +-------------------+
+          |                   |
+          |                   |
+          v                   v
++-------------------+   +-------------------+
+|                   |   |                   |
+|   Payment Service  |   |   Search Engine    |
+|                   |   |                   |
++-------------------+   +-------------------+
+          |
+          v
++-------------------+
+|                   |
+|   Recommendation   |
+|   Engine          |
+|                   |
++-------------------+
+          |
+          v
++-------------------+
+|                   |
+|   Analytics &      |
+|   Monitoring       |
+|                   |
++-------------------+
+
+
+
 ## The Journey Begins: User Interaction
 
 Our story starts with the **User Device**—the mobile app or web interface where customers browse through thousands of products. Picture a user scrolling through their favorite styles, discovering new collections, and adding items to their cart. This is where the magic begins, and it all starts with our **API Gateway.**
