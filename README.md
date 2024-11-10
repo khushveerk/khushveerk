@@ -190,6 +190,30 @@ Finally, we have our **Analytics and Monitoring team** , which continuously trac
 
 ***Prometheus:*** Monitors metrics related to the product service, ensuring performance tracking.
 
+***Grafana:*** Visualizes product service performance metrics for better analysis.
+
+***GitHub/GitLab:*** Supports version control and collaboration for product service development.
+
+***JIRA:*** Manages tasks and issues related to product service development.
+
+***RabbitMQ:*** Handles asynchronous communication within the product service.
+
+
+#### Order Service
+
+***Postman:*** Used for API development and testing for order-related functionalities.
+
+***Swagger/OpenAPI:*** Provides documentation and design for order service endpoints.
+
+***Spring Boot:*** A framework for building microservices that manage the order lifecycle.
+
+***PostgreSQL:*** Stores order details and history in a relational database.
+
+***RabbitMQ:*** Facilitates asynchronous processing of orders.
+
+***Docker:*** Ensures consistent deployment of the order service.
+
+
 
 
 ## Conclusion: The Future of Myntra
