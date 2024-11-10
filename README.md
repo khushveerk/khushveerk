@@ -144,6 +144,8 @@ Once a user has made their selections, they need a secure and efficient way to c
 
 Finally, we have our **Analytics and Monitoring team** , which continuously tracks user interactions and system performance. This data-driven approach allows us to adapt and improve our services, ensuring that we stay ahead of market trends and customer expectations.
 
+![Screenshot_2024-11-10-14-35-23-373~2](https://github.com/user-attachments/assets/1ff8e71f-d309-40b6-82f1-1576810dcad2)
+
 
 ## Tools and Components Overview :- 
 
