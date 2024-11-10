@@ -97,6 +97,8 @@ Our story starts with the **User Device**—the mobile app or web interface wher
 
 ![Screenshot_2024-11-10-07-58-17-286](https://github.com/user-attachments/assets/a47a95f7-e56f-474c-9a24-185c05554a78)
 
+![Screenshot_2024-11-10-18-10-31-693](https://github.com/user-attachments/assets/857bc139-7ca6-44e9-ba83-52bbaf355a4e)
+
  
 ## The API Gateway: The Gatekeeper
 
