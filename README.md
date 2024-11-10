@@ -142,6 +142,56 @@ Once a user has made their selections, they need a secure and efficient way to c
 
 Finally, we have our **Analytics and Monitoring team** , which continuously tracks user interactions and system performance. This data-driven approach allows us to adapt and improve our services, ensuring that we stay ahead of market trends and customer expectations.
 
+
+## Tools and Components Overview :- 
+
+### User Service
+
+***Postman:*** Used for API development and testing, allowing developers to create and test user-related APIs efficiently.
+
+***Swagger/OpenAPI:*** Provides API documentation and design, making it easier to understand and use user service endpoints.
+
+***Spring Boot:*** A Java framework that simplifies the development of microservices for managing user accounts and profiles.
+
+***MongoDB:*** A NoSQL database that stores user profiles and data in a flexible, scalable manner.
+
+***Express.js:*** A web framework for building RESTful APIs specifically for user service functionalities.
+
+***Docker:** Enables containerization, ensuring consistent deployment of the user service across different environments.
+
+***Kubernetes:*** Manages and orchestrates user service containers, facilitating scaling and management.
+
+***Prometheus:*** Monitors user service metrics, providing insights into performance and reliability.
+
+***Grafana:*** Visualizes user service performance metrics, helping teams track and analyze data effectively.
+
+***GitHub/GitLab:*** Version control systems that support collaboration and code management for user service development.
+
+***JIRA:*** A project management tool used for tracking tasks and issues related to user service development.
+
+***RabbitMQ:*** A message broker that facilitates asynchronous communication within the user service.
+
+
+### Product Service
+
+***Postman:*** Similar to the user service, it is used for API development and testing for product-related APIs.
+
+***Swagger/OpenAPI:*** Provides documentation and design for product service endpoints, enhancing usability.
+
+***Spring Boot:*** A framework for building microservices that manage product catalogs and details.
+
+***MongoDB:*** Stores product information in a flexible NoSQL format.
+
+***PostgreSQL:*** A relational database used for structured product data management.
+
+***Docker:*** Ensures consistent deployment of the product service through containerization.
+
+***Kubernetes***: Orchestrates product service containers for efficient management and scaling.
+
+***Prometheus:*** Monitors metrics related to the product service, ensuring performance tracking.
+
+
+
 ## Conclusion: The Future of Myntra
 
  In conclusion, Myntra’s architecture is not just a technical framework; it’s a carefully crafted ecosystem designed to enhance the shopping experience. By investing in Myntra, you’re not just investing in a platform; you’re investing in a vision—a vision of a future where fashion is accessible, personalized, and enjoyable for everyone.
