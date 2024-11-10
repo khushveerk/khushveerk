@@ -95,7 +95,9 @@ As the business grows, new features can be added without disrupting existing ser
 
 Our story starts with the **User Device**—the mobile app or web interface where customers browse through thousands of products. Picture a user scrolling through their favorite styles, discovering new collections, and adding items to their cart. This is where the magic begins, and it all starts with our **API Gateway.**
 
+![Screenshot_2024-11-10-07-58-17-286](https://github.com/user-attachments/assets/a47a95f7-e56f-474c-9a24-185c05554a78)
 
+ 
 ## The API Gateway: The Gatekeeper
 
 The API Gateway acts as the gatekeeper of our platform. It’s the first point of contact for every user request. Just like a skilled concierge, it efficiently routes requests to the right services, ensuring that users receive quick responses. Whether they’re looking for a specific dress or checking their order status, the API Gateway ensures a smooth and fast experience.
