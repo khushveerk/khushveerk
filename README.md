@@ -295,5 +295,7 @@ Finally, we have our **Analytics and Monitoring team** , which continuously trac
 ***Features:*** Request routing, rate limiting, security, load balancing, etc.
 
 
+![Screenshot_2024-11-10-18-43-50-478](https://github.com/user-attachments/assets/71cf713c-d463-413a-b28a-82a6e3222da6)
+
 
 ......
