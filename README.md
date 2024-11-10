@@ -149,7 +149,7 @@ Finally, we have our **Analytics and Monitoring team** , which continuously trac
 ![Screenshot_2024-11-10-14-35-23-373~2](https://github.com/user-attachments/assets/1ff8e71f-d309-40b6-82f1-1576810dcad2)
 
 
-## Tools and Components Overview :- 
+[## Tools and Components Overview :- 
 
 ### User Service
 
@@ -238,7 +238,7 @@ Finally, we have our **Analytics and Monitoring team** , which continuously trac
 
 ***Prometheus:*** A monitoring system that collects metrics from all services, providing insights into system performance.
 
-***Grafana:*** A dashboard tool that visualizes metrics and analytics, helping teams track and analyze data effectively.
+***Grafana:*** A dashboard tool that visualizes metrics and analytics, helping teams track and analyze data effectively.]
 
 
 
@@ -300,3 +300,9 @@ Finally, we have our **Analytics and Monitoring team** , which continuously trac
 
 ![Screenshot_2024-11-10-18-44-24-050](https://github.com/user-attachments/assets/1fb2a8c2-ae3e-42ad-b8c2-9ca404604b98)
 ......
+![Screenshot_2024-11-10-18-44-44-594](https://github.com/user-attachments/assets/440d8f5e-c05f-4e6b-9cc5-6bf9ce87b59f)
+
+
+
+
+
