@@ -250,5 +250,50 @@ Finally, we have our **Analytics and Monitoring team** , which continuously trac
 ![Screenshot_2024_1109_231937](https://github.com/user-attachments/assets/89cded9b-eab3-401b-8945-943363de9c11)
 
 
+## Here’s a list of tools and technologies that can be used for each of the services you've mentioned:
+
+### 1. Mobile Application
+
+***Frontend Frameworks/Technologies:***
+
+•React Native
+
+•Flutter
+
+•Xamarin
+
+•Swift (for iOS)
+
+•Kotlin (for Android)
+
+***Backend:***
+
+•Node.js
+
+•Django (Python)
+
+•Ruby on Rails
+
+***Push Notification:*** Firebase Cloud Messaging, OneSignal
+
+***App Analytics:*** Firebase Analytics, Mixpanel
+
+### 3. API Gateway
+
+***API Management:***
+
+• Kong
+
+•AWS API Gateway
+
+•Nginx
+
+•Zuul (Spring Cloud)
+
+•Traefik
+
+***Features:*** Request routing, rate limiting, security, load balancing, etc.
+
+
 
 ......
